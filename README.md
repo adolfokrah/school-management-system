@@ -16,47 +16,47 @@ Easyskul provides highly personalized portal-based solutions that captures the s
 
 
 1. ADMINISTRATOR
-Dashboard
+  Dashboard
 
-Manage classes and subjects respectively
+  Manage classes and subjects respectively
 
-Manage Students
+  Manage Students
 
-Manage Teachers
+  Manage Teachers
 
-Manage Students Class Attendance
+  Manage Students Class Attendance
 
-Manage Students Marks (Class Assignments and Examinations)
+  Manage Students Marks (Class Assignments and Examinations)
 
-Manage and pay fees
+  Manage and pay fees
 
-Manage and keep feeding fee records
+  Manage and keep feeding fee records
 
-Keep Expenses Made
+  Keep Expenses Made
 
-Assign teachers to class and subjects
+  Assign teachers to class and subjects
 
-Billing
+  Billing
 
-Accounting Summary report
+  Accounting Summary report
 
-Manage and upload timetable
+  Manage and upload timetable
 
-Manage and generate terminal reports
+  Manage and generate terminal reports
 
-Manage and add events to academic calendar
+  Manage and add events to academic calendar
 
-A Noticebord to help manage and publish info to all users.
+  A Noticeboard to help manage and publish info to all users.
 
-Library Management
+  Library Management
 
-Manage users
+  Manage users
 
-Messaging (SMS)
+  Messaging (SMS)
 
-System and profile settings
+  System and profile settings
 
-Accounting Operation historie
+  Accounting Operation history
 
 
 
