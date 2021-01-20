@@ -15,7 +15,8 @@ Easyskul provides highly personalized portal-based solutions that captures the s
 8. Parent
 
 
-1. ADMINISTRATOR
+>>1. ADMINISTRATOR
+
   Dashboard
 
   Manage classes and subjects respectively
