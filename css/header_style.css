@@ -1,0 +1,144 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:rgba(255,255,255,.8);
+}
+#login-dp .help-block{
+    font-size:12px    
+}
+#login-dp .bottom{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+#login-dp .social-buttons{
+    margin:12px 0    
+}
+#login-dp .social-buttons a{
+    width: 49%;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+.btn-fb{
+    color: #fff;
+    background-color:#3b5998;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color:#496ebc 
+}
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color:#59b5fa;
+}
+#header{
+    background-image: url(../web_images/library.jpg);
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+    padding-bottom: 50px;
+    margin-top: -20px;
+    border-bottom: 10px solid #004c6c;
+    height: auto;
+    background-color: black;
+    overflow: hidden;
+}
+
+#header_image{
+     background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+    padding-bottom: 200px;
+    margin-top: -20px;
+    border-bottom: 10px solid #004c6c;
+    height: auto;
+}
+#header:after{
+    content: "";
+    display: block;
+    clear: both;
+    float: none;
+}
+#header .content{
+    width: 90%; 
+    margin:auto; 
+    color:white; 
+    line-height:3em;
+}
+.form-area input{
+    height: 40px;
+    color: black;
+    font-size: 18px;
+}
+@media(max-width:768px){
+    #login-dp{
+        background-color: inherit;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        background-color: inherit;
+        border-top:0 none;
+    }
+}
+@media(max-width:500px){
+        #header .content h1{
+            font-size: 24px;   
+        }
+        #header .content h3{
+            font-size: 18px;   
+        }
+        #header_image{
+            padding-bottom: 20px;;
+        }
+        #header{
+            padding: 20px;
+        }
+    #row_header h3{
+        font-size: 18px;
+        font-weight: bold;
+    }
+    #row_header2 h3{
+        font-size: 18px;
+        font-weight: bold;
+    }
+   
+}
+
+#submit{
+    
+    height:50px; background: linear-gradient(#92ca74, #51a02c); font-size:25px;
+    transition: 0.5s ease-out;
+    outline: none;
+    border: none;
+    box-shadow: 0px 0px 4px 1px #606060;
+}
+#about_us{
+    height:50px; font-size:25px;
+    transition: 0.5s ease-out;
+    outline: none;
+    border: thin solid #fff;
+    background-color: transparent;
+    
+}
+#about_us:hover{
+    border: thin solid #92ca74;
+    color:#92ca74;
+}
+#submit:hover{
+    background: linear-gradient(#92ca74,#92ca74 );
+}
+@media(max-width:992px){
+     #content{
+        text-align: center;
+    }
+}
