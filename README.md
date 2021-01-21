@@ -1,6 +1,7 @@
 # school-management-system
  School management system for elementory schools
 
+![](web_images/responsive.jpg)
 
 Easyskul provides highly personalized portal-based solutions that captures the school processes and makes all operations (Students, Finance, Admission and Records, Continuous Assessment, Terminal Reports, etc.) accessible and managed via the web, thus allowing you to effectively serve all stakeholders: students, parents, teachers, administrators, and etc. This solution is based on portal technology, which enables the greatest possible flexibility and personalization. It is an integrated solution that combines systems to serve a wide range of key audience and stakeholders of various Schools.
 
